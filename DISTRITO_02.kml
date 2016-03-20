@@ -11,7 +11,7 @@
 </Schema>
   <Placemark>
   	<description>Distrito02</description>
-	<Style><LineStyle><color>#92a8d1</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<Style><LineStyle><color>>#41a5c2</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_02">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 02</SimpleData>
