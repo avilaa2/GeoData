@@ -10,7 +10,8 @@
 	<SimpleField name="DIST_NUM" type="float"></SimpleField>
 </Schema>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<description>Distrito07</description>
+	<Style><LineStyle><color>#259359</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_07">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 7 (TLAJOMULCO DE ZUÑIGA)</SimpleData>

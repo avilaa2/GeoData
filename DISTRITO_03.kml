@@ -8,7 +8,8 @@
 	<SimpleField name="DISTRITO" type="string"></SimpleField>
 </Schema>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<description>Distrito03</description>
+	<Style><LineStyle><color>#f2ddde</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_03">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 03</SimpleData>
