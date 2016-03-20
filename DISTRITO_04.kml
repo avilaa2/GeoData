@@ -8,7 +8,7 @@
 </Schema>
   <Placemark>
 	<description>Distrito 04</description>
-	<Style><LineStyle><color>#41a5c2</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#ff8000</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_04">
 		<SimpleData name="Id">0</SimpleData>
 	</SchemaData></ExtendedData>

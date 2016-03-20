@@ -9,7 +9,7 @@
 </Schema>
   <Placemark>
 	<description>Distrito 08</description>
-	<Style><LineStyle><color>#41a5c2</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#80ff00</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_08">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 8 (GUADALAJARA)</SimpleData>

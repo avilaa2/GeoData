@@ -10,8 +10,8 @@
 	<SimpleField name="DIST_NUM" type="float"></SimpleField>
 </Schema>
   <Placemark>
-  	<description>Distrito02</description>
-	<Style><LineStyle><color>>#41a5c2</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+  	<description>Distrito 02</description>
+	<Style><LineStyle><color>#ff0000</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_02">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 02</SimpleData>

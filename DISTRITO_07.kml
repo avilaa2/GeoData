@@ -11,7 +11,7 @@
 </Schema>
   <Placemark>
 	<description>Distrito 07</description>
-	<Style><LineStyle><color>#41a5c2</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#bfff00</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DISTRITO_07">
 		<SimpleData name="Id">0</SimpleData>
 		<SimpleData name="DISTRITO">DISTRITO 7 (TLAJOMULCO DE ZUÑIGA)</SimpleData>
